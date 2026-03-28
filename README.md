@@ -101,7 +101,7 @@ Wait a few seconds, and the app will become available at `http://localhost:8501`
 
 ## 📸 Screenshots
 
-> *(Tip: Add screenshots or GIFs of your Streamlit UI here to show recruiters and developers what the app looks like!)*
+
 
 *   **Dashboard View**: `![Dashboard](/path/to/image.png)`
 *   **CV Analyzer in Action**: `![CV Analyzer](/path/to/image.png)`
